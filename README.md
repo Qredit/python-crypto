@@ -1,10 +1,10 @@
-# Ark Python - Crypto
+# Qredit Python - Crypto
 
 <p align="center">
     <img src="./banner.png" />
 </p>
 
-> A simple Cryptography Implementation in Python for the Ark Blockchain.
+> A simple Cryptography Implementation in Python for the Qredit Blockchain.
 
 [![Build Status](https://badgen.now.sh/circleci/github/ArkEcosystem/python-crypto)](https://circleci.com/gh/ArkEcosystem/python-crypto)
 [![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/python-crypto)](https://codecov.io/gh/arkecosystem/python-crypto)
